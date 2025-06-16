@@ -1,0 +1,1602 @@
+﻿Log file open, 05/23/25 02:42:42
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.223279
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2025.05.22-23.42.44:444][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2025.05.22-23.42.44:444][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2025.05.22-23.42.44:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Engine.ini]
+[2025.05.22-23.42.44:444][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2025.05.22-23.42.44:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Engine.ini]
+[2025.05.22-23.42.44:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Engine.ini]
+[2025.05.22-23.42.44:444][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2025.05.22-23.42.44:444][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2025.05.22-23.42.44:444][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2025.05.22-23.42.44:444][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2025.05.22-23.42.44:444][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2025.05.22-23.42.44:444][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2025.05.22-23.42.44:444][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2025.05.22-23.42.44:444][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2025.05.22-23.42.44:444][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2025.05.22-23.42.44:444][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Engine.ini]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2025.05.22-23.42.44:445][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Engine.ini]
+[2025.05.22-23.42.44:445][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Engine.ini]
+[2025.05.22-23.42.44:463][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Scalability.ini]
+[2025.05.22-23.42.44:463][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.05.22-23.42.44:463][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.05.22-23.42.44:463][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Scalability.ini]
+[2025.05.22-23.42.44:463][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.05.22-23.42.44:463][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Scalability.ini]
+[2025.05.22-23.42.44:463][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.05.22-23.42.44:463][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.05.22-23.42.44:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.05.22-23.42.44:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.05.22-23.42.44:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.05.22-23.42.44:463][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.05.22-23.42.44:463][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Scalability.ini]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.05.22-23.42.44:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Scalability.ini]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Scalability.ini]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.05.22-23.42.44:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Scalability.ini]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Scalability.ini]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.05.22-23.42.44:467][  0]LogInit: Selected Device Profile: [Windows]
+[2025.05.22-23.42.44:467][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2025.05.22-23.42.44:467][  0]LogHAL: Display: Platform has ~ 16 GB [16936132608 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.05.22-23.42.44:467][  0]LogInit: Going up to parent DeviceProfile []
+[2025.05.22-23.42.44:467][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Scalability.ini]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Scalability.ini]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Scalability.ini]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.05.22-23.42.44:467][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Scalability.ini]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.05.22-23.42.44:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Scalability.ini]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Scalability.ini]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2025.05.22-23.42.44:469][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Scalability.ini]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Scalability.ini]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.05.22-23.42.44:470][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.05.22-23.42.44:471][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2025.05.22-23.42.44:471][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2025.05.22-23.42.44:471][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2025.05.22-23.42.44:471][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Engine.ini]
+[2025.05.22-23.42.44:471][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Config/Windows/Editor.ini]
+[2025.05.22-23.42.44:471][  0]LogInit: Computer: ROCKINWITHEBEST
+[2025.05.22-23.42.44:471][  0]LogInit: User: sikan
+[2025.05.22-23.42.44:471][  0]LogInit: CPU Page size=4096, Cores=4
+[2025.05.22-23.42.44:471][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.05.22-23.42.44:471][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2025.05.22-23.42.44:471][  0]LogMemory: Platform Memory Stats for Windows
+[2025.05.22-23.42.44:471][  0]LogMemory: Process Physical Memory: 144.52 MB used, 144.52 MB peak
+[2025.05.22-23.42.44:471][  0]LogMemory: Process Virtual Memory: 112.20 MB used, 112.20 MB peak
+[2025.05.22-23.42.44:471][  0]LogMemory: Physical Memory: 15417.40 MB used,  734.15 MB free, 16151.55 MB total
+[2025.05.22-23.42.44:471][  0]LogMemory: Virtual Memory: 134217360.00 MB used,  365.51 MB free, 134217728.00 MB total
+[2025.05.22-23.42.44:485][  0]LogWindows: WindowsPlatformFeatures enabled
+[2025.05.22-23.42.44:636][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2025.05.22-23.42.44:640][  0]LogInit: Using OS detected language (en-US).
+[2025.05.22-23.42.44:640][  0]LogInit: Using OS detected locale (en-US).
+[2025.05.22-23.42.44:650][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2025.05.22-23.42.45:233][  0]LogInit: Setting process to per monitor DPI aware
+[2025.05.22-23.42.45:265][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2025.05.22-23.42.45:289][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2025.05.22-23.42.45:290][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2025.05.22-23.42.45:673][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2025.05.22-23.42.45:673][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2025.05.22-23.42.45:673][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2025.05.22-23.42.45:673][  0]LogD3D11RHI: D3D11 adapters:
+[2025.05.22-23.42.45:989][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX450' (Feature Level 11_0)
+[2025.05.22-23.42.45:989][  0]LogD3D11RHI:       1906/0/8075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2025.05.22-23.42.46:062][  0]LogD3D11RHI:    1. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2025.05.22-23.42.46:062][  0]LogD3D11RHI:       128/0/8075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2025.05.22-23.42.46:072][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2025.05.22-23.42.46:072][  0]LogD3D11RHI:       0/0/8075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2025.05.22-23.42.46:073][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2025.05.22-23.42.46:090][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2025.05.22-23.42.46:091][  0]LogD3D11RHI:     GPU DeviceId: 0x1f97 (for the marketing name, search the web for "GPU Device Id")
+[2025.05.22-23.42.46:091][  0]LogWindows: EnumDisplayDevices:
+[2025.05.22-23.42.46:091][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2025.05.22-23.42.46:092][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2025.05.22-23.42.46:093][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2025.05.22-23.42.46:094][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2025.05.22-23.42.46:095][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2025.05.22-23.42.46:095][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX450
+[2025.05.22-23.42.46:095][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2025.05.22-23.42.46:095][  0]LogD3D11RHI:      Driver Date: Unknown
+[2025.05.22-23.42.46:095][  0]LogRHI: Texture pool is 1334 MB (70% of 1906 MB)
+[2025.05.22-23.42.46:322][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2025.05.22-23.42.46:322][  0]LogD3D11RHI: Async texture creation enabled
+[2025.05.22-23.42.46:323][  0]LogD3D11RHI: Array index from any shader is supported
+[2025.05.22-23.42.46:344][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2025.05.22-23.42.46:348][  0]LogRHI: GeForceNow SDK initialized: 1
+[2025.05.22-23.42.47:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2025.05.22-23.42.47:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2025.05.22-23.42.47:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2025.05.22-23.42.47:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2025.05.22-23.42.47:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2025.05.22-23.42.47:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2025.05.22-23.42.47:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2025.05.22-23.42.47:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2025.05.22-23.42.47:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2025.05.22-23.42.47:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2025.05.22-23.42.47:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2025.05.22-23.42.47:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2025.05.22-23.42.47:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2025.05.22-23.42.47:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2025.05.22-23.42.47:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2025.05.22-23.42.47:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2025.05.22-23.42.47:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2025.05.22-23.42.47:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2025.05.22-23.42.47:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2025.05.22-23.42.47:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2025.05.22-23.42.47:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2025.05.22-23.42.47:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2025.05.22-23.42.47:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2025.05.22-23.42.47:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2025.05.22-23.42.47:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2025.05.22-23.42.47:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2025.05.22-23.42.47:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2025.05.22-23.42.47:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2025.05.22-23.42.47:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2025.05.22-23.42.47:872][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2025.05.22-23.42.47:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2025.05.22-23.42.47:912][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2025.05.22-23.42.47:912][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2025.05.22-23.42.47:932][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.05.22-23.42.48:078][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2025.05.22-23.42.48:078][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Intermediate/Shaders/WorkingDirectory/16916/).
+[2025.05.22-23.42.48:079][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sikan/AppData/Local/Temp/UnrealShaderWorkingDir/92C1C9B1436672B934AF9DB110FDBB5B/'.
+[2025.05.22-23.42.48:079][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2025.05.22-23.42.48:079][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2025.05.22-23.42.49:745][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2025.05.22-23.42.49:905][  0]LogDerivedDataCache: Loaded boot cache 0.16s 77MB C:/Users/sikan/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2025.05.22-23.42.49:905][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sikan/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2025.05.22-23.42.49:905][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.05.22-23.42.49:905][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2025.05.22-23.42.49:905][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.05.22-23.42.49:905][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2025.05.22-23.42.49:933][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2025.05.22-23.42.49:933][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.05.22-23.42.49:933][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2025.05.22-23.42.49:985][  0]LogDerivedDataCache: Speed tests for C:/Users/sikan/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2025.05.22-23.42.49:985][  0]LogDerivedDataCache: Display: Performance to C:/Users/sikan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=165.02MBs, RandomWriteSpeed=20.81MBs. Assigned SpeedClass 'Local'
+[2025.05.22-23.42.49:987][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sikan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2025.05.22-23.42.49:987][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2025.05.22-23.42.49:987][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2025.05.22-23.42.50:098][  0]LogSlate: Using FreeType 2.10.0
+[2025.05.22-23.42.50:100][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.05.22-23.42.50:161][  0]LogAssetRegistry: FAssetRegistry took 0.0058 seconds to start up
+[2025.05.22-23.42.50:776][  0]LogInit: Selected Device Profile: [Windows]
+[2025.05.22-23.42.50:776][  0]LogInit: Active device profile: [000002096E5C4C00][000002096EDB7CC0 49] Windows
+[2025.05.22-23.42.50:776][  0]LogInit: Profiles: [000002096E5C4C00][000002096EDB7CC0 49] Windows, [000002096E4DF200][000002096EDBE180 49] WindowsNoEditor, [000002096E4C8300][000002096EDC2300 49] WindowsServer, [000002096E4DC800][000002096EDC6480 49] WindowsClient, [000002096E4CB900][000002096EDCA600 49] IOS, [000002096E4DFC00][000002096EDCE780 49] iPadAir, [000002096E4C8600][000002096EDD2900 49] iPadAir2, [000002096E489600][000002096EDE0BC0 49] IPadPro, [000002096E489700][000002096EDD6C00 49] iPadAir3, [000002096E4CB500][000002096EDEAD80 49] iPadAir4, [000002096E488700][000002096EDEEF00 49] iPadMini2, [000002096E4C8800][000002096EDF3080 49] iPadMini3, [000002096E489F00][000002096EDF7200 49] iPadMini4, [000002096E4CB100][000002096EDFB380 49] iPadMini5, [000002096E4DC700][000002096EE03640 49] iPhone6, [000002096E4DDB00][000002096EDFF680 49] iPodTouch6, [000002096E488500][000002096EE078C0 49] iPhone7, [000002096E48A400][000002096EDBB900 49] iPodTouch7, [000002096E4DD600][000002096EE0BA40 49] iPhone5S, [000002096E48BF00][000002096EE0FB80 49] iPhone6Plus, [000002096E4DD000][000002096EE17D00 49] iPhone6S, [000002096E489100][000002096EE1A1C0 49] iPhone6SPlus, [000002096E4DC600][000002096EE1E340 49] iPhone7Plus, [000002096E488A00][000002096EE224C0 49] iPhoneSE, [000002096E4DFB00][000002096EE2A640 49] iPhone8, [000002096E489D00][000002096EE2E7C0 49] iPhone8Plus, [000002096E4DFD00][000002096EE32940 49] iPhoneX, [000002096E489B00][000002096EE36AC0 49] iPhoneXS, [000002096E4DC100][000002096EE3AC40 49] iPhoneXSMax, [000002096E48AD00][000002096EE3EDC0 49] iPhoneXR, [000002096E4DF500][000002096EE42F40 49] iPhone11, [000002096E489500][000002096EE470C0 49] iPhone11Pro, [000002096E4DF600][000002096EE4B240 49] iPhone11ProMax, [000002096E488C00][000002096EE573C0 49] iPhoneSE2, [000002096E4DC300][000002096EE5B540 49] iPhone12Mini, [000002096E488F00][000002096EE5F6C0 49] iPhone12, [000002096E4DE600][000002096EE13800 49] iPhone12Pro, [000002096E48A500][000002096EE63940 49] iPhone12ProMax, [000002096E4DEA00][000002096EE67A80 49] iPadPro105, [000002096E488800][000002096EE6BBC0 49] iPadPro129, [000002096E4DC500][000002096EE73D40 49] iPadPro97, [000002096E488D00][000002096EE76200 49] iPadPro2_129, [000002096E4DCA00][000002096EE7A380 49] iPad5, [000002096E488600][000002096EE7E500 49] iPad6, [000002096E4DD700][000002096EE82680 49] iPad7, [000002096E48A000][000002096EE86800 49] iPad8, [000002096E4DD900][000002096EE8A980 49] iPadPro11, [000002096E48B900][000002096EE8EB00 49] iPadPro2_11, [000002096E4DED00][000002096EE96C80 49] iPadPro3_129, [000002096E489800][000002096EEAEE00 49] iPadPro4_129, [000002096E4DF100][000002096EEB8F80 49] AppleTV, [000002096E488B00][000002096EEC5100 49] AppleTV4K, [000002096E4DDA00][000002096EEC9280 49] TVOS, [000002096E489300][000002096EECD400 49] Mac, [000002096E4DE800][000002096EED1580 49] MacClient, [000002096E48A900][000002096EED5700 49] MacNoEditor, [000002096E4DE000][000002096EED9880 49] MacServer, [000002096E48B300][000002096EE6F9C0 49] Linux, [000002096E4DDD00][000002096EEDDB00 49] LinuxAArch64, [000002096E48B400][000002096EEE1C40 49] LinuxNoEditor, [000002096E4DFF00][000002096EEE8100 49] LinuxAArch64NoEditor, [000002096E48BA00][000002096EEEC280 49] LinuxClient, [000002096E4DCC00][000002096EEF0400 49] LinuxAArch64Client, [000002096E48A700][000002096EEF4580 49] LinuxServer, [000002096E4DCE00][000002096EEF8700 49] LinuxAArch64Server, [000002096E489A00][000002096EEFC880 49] Android, [000002096E5C5800][000002096EF00A00 49] Android_Low, [000002096E4C8100][000002096EF04B80 49] Android_Mid, [000002096E5C5600][000002096EF08D00 49] Android_High, [000002096E4C9C00][000002096EF0CE80 49] Android_Default, [000002096E5C5E00][000002096EF11000 49] Android_Adreno4xx, [000002096E4C8E00][000002096EF15180 49] Android_Adreno5xx_Low, [000002096E5C4700][000002096EF19300 49] Android_Adreno5xx, [000002096E4CAB00][000002096EF1D480 49] Android_Adreno6xx, [000002096E5C4B00][000002096EF21600 49] Android_Adreno6xx_Vulkan, [000002096E4CBB00][000002096EF25780 49] Android_Mali_T6xx, [000002096E5C4300][000002096EF29900 49] Android_Mali_T7xx, [000002096E4C9600][000002096EEE5A40 49] Android_Mali_T8xx, [000002096E5C4100][000002096EF2DB80 49] Android_Mali_G71, [000002096E4C9000][000002096EF31CC0 49] Android_Mali_G72, [000002096E5C4600][000002096EF38180 49] Android_Mali_G72_Vulkan, [000002096E4CAD00][000002096EF3C300 49] Android_Mali_G76, [000002096E5C4F00][000002096452C480 49] Android_Mali_G76_Vulkan, [000002096E4C9400][0000020964530600 49] Android_Mali_G77, [000002096E5C4500][0000020964534780 49] Android_Mali_G77_Vulkan, [000002096E4CB700][0000020964538900 49] Android_Vulkan_SM5, [000002096E5C5400][000002096453CA80 49] Android_PowerVR_G6xxx, [000002096E4C8200][0000020964540C00 49] Android_PowerVR_GT7xxx, [000002096E48A600][0000020964544D80 49] Android_PowerVR_GE8xxx, [000002096E4DC900][0000020964548F00 49] Android_PowerVR_GM9xxx, [000002096E489000][000002096454D080 49] Android_PowerVR_GM9xxx_Vulkan, [000002096E4DDC00][000002096EF51200 49] Android_TegraK1, [000002096E48A800][000002096EF55380 49] Android_Unknown_Vulkan, [000002096E4DD200][000002096EF59500 49] Lumin, [000002096E48AB00][000002096EF5D680 49] Lumin_Desktop, [000002096E4DF700][000002096EF61800 49] HoloLens, 
+[2025.05.22-23.42.50:942][  0]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2025.05.22-23.42.52:628][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 905
+[2025.05.22-23.42.52:628][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 904
+[2025.05.22-23.42.52:628][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 903
+[2025.05.22-23.42.52:628][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 902
+[2025.05.22-23.42.52:628][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 901
+[2025.05.22-23.45.42:960][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 900
+[2025.05.22-23.45.44:569][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 899
+[2025.05.22-23.45.46:157][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 898
+[2025.05.22-23.45.48:569][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 897
+[2025.05.22-23.45.54:180][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 896
+[2025.05.22-23.45.54:977][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 895
+[2025.05.22-23.45.56:586][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 894
+[2025.05.22-23.45.58:975][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 893
+[2025.05.22-23.45.59:771][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 892
+[2025.05.22-23.46.02:956][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 891
+[2025.05.22-23.46.05:328][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 890
+[2025.05.22-23.46.11:708][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 889
+[2025.05.22-23.46.12:501][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 888
+[2025.05.22-23.46.14:896][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 887
+[2025.05.22-23.46.18:085][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 886
+[2025.05.22-23.46.18:879][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 885
+[2025.05.22-23.46.20:462][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 884
+[2025.05.22-23.46.24:476][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 883
+[2025.05.22-23.46.28:467][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 882
+[2025.05.22-23.46.30:881][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 881
+[2025.05.22-23.46.32:472][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 880
+[2025.05.22-23.46.34:078][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 879
+[2025.05.22-23.46.37:268][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 878
+[2025.05.22-23.46.38:875][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 877
+[2025.05.22-23.46.42:065][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 876
+[2025.05.22-23.46.45:285][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 875
+[2025.05.22-23.46.49:314][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 874
+[2025.05.22-23.46.50:898][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 873
+[2025.05.22-23.46.55:773][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 872
+[2025.05.22-23.46.56:568][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 871
+[2025.05.22-23.46.57:373][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 870
+[2025.05.22-23.46.58:179][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 869
+[2025.05.22-23.46.58:988][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 868
+[2025.05.22-23.46.59:777][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 867
+[2025.05.22-23.47.00:571][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 866
+[2025.05.22-23.47.01:379][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 865
+[2025.05.22-23.47.03:760][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 864
+[2025.05.22-23.47.05:347][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 863
+[2025.05.22-23.47.07:775][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 862
+[2025.05.22-23.47.07:775][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 861
+[2025.05.22-23.47.10:958][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 860
+[2025.05.22-23.47.10:958][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 859
+[2025.05.22-23.47.11:752][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 858
+[2025.05.22-23.47.11:752][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 857
+[2025.05.22-23.47.13:352][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 856
+[2025.05.22-23.47.14:144][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 855
+[2025.05.22-23.47.14:928][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 854
+[2025.05.22-23.47.15:732][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 853
+[2025.05.22-23.47.15:732][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 852
+[2025.05.22-23.47.18:899][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 851
+[2025.05.22-23.47.19:693][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 850
+[2025.05.22-23.47.20:481][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 849
+[2025.05.22-23.47.20:481][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 848
+[2025.05.22-23.47.21:279][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 847
+[2025.05.22-23.47.27:727][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 846
+[2025.05.22-23.47.27:727][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 845
+[2025.05.22-23.47.28:537][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 844
+[2025.05.22-23.47.32:575][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 843
+[2025.05.22-23.47.34:176][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 842
+[2025.05.22-23.47.36:562][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 841
+[2025.05.22-23.47.40:539][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 840
+[2025.05.22-23.47.40:539][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 839
+[2025.05.22-23.47.40:539][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 838
+[2025.05.22-23.47.42:123][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 837
+[2025.05.22-23.47.42:913][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 836
+[2025.05.22-23.47.44:521][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 835
+[2025.05.22-23.47.46:967][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 834
+[2025.05.22-23.47.46:967][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 833
+[2025.05.22-23.47.48:552][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 832
+[2025.05.22-23.47.49:350][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 831
+[2025.05.22-23.47.50:137][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 830
+[2025.05.22-23.47.50:930][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 829
+[2025.05.22-23.47.50:930][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 828
+[2025.05.22-23.47.52:518][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 827
+[2025.05.22-23.47.52:518][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 826
+[2025.05.22-23.47.52:518][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 825
+[2025.05.22-23.47.53:311][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 824
+[2025.05.22-23.47.53:311][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 823
+[2025.05.22-23.47.54:884][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 822
+[2025.05.22-23.47.56:461][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 821
+[2025.05.22-23.47.57:248][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 820
+[2025.05.22-23.47.58:040][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 819
+[2025.05.22-23.47.58:701][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 818
+[2025.05.22-23.47.59:777][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 817
+[2025.05.22-23.47.59:777][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 816
+[2025.05.22-23.48.00:315][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 815
+[2025.05.22-23.48.00:853][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 814
+[2025.05.22-23.48.00:853][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 813
+[2025.05.22-23.48.01:395][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 812
+[2025.05.22-23.48.01:395][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 811
+[2025.05.22-23.48.01:395][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 810
+[2025.05.22-23.48.01:932][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 809
+[2025.05.22-23.48.01:932][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 808
+[2025.05.22-23.48.01:932][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 807
+[2025.05.22-23.48.02:470][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 806
+[2025.05.22-23.48.02:470][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 805
+[2025.05.22-23.48.02:470][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 804
+[2025.05.22-23.48.03:012][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 803
+[2025.05.22-23.48.03:012][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 802
+[2025.05.22-23.48.03:012][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 801
+[2025.05.22-23.48.03:551][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 800
+[2025.05.22-23.48.03:551][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 799
+[2025.05.22-23.48.04:087][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 798
+[2025.05.22-23.48.04:087][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 797
+[2025.05.22-23.48.04:087][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 796
+[2025.05.22-23.48.04:087][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 795
+[2025.05.22-23.48.04:625][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 794
+[2025.05.22-23.48.04:625][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 793
+[2025.05.22-23.48.04:625][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 792
+[2025.05.22-23.48.05:162][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 791
+[2025.05.22-23.48.05:162][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 790
+[2025.05.22-23.48.05:700][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 789
+[2025.05.22-23.48.05:700][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 788
+[2025.05.22-23.48.05:700][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 787
+[2025.05.22-23.48.06:239][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 786
+[2025.05.22-23.48.06:239][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 785
+[2025.05.22-23.48.06:239][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 784
+[2025.05.22-23.48.06:239][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 783
+[2025.05.22-23.48.06:779][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 782
+[2025.05.22-23.48.06:779][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 781
+[2025.05.22-23.48.06:779][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 780
+[2025.05.22-23.48.06:779][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 779
+[2025.05.22-23.48.06:779][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 778
+[2025.05.22-23.48.06:779][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 777
+[2025.05.22-23.48.07:316][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 776
+[2025.05.22-23.48.07:316][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 775
+[2025.05.22-23.48.07:316][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 774
+[2025.05.22-23.48.07:852][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 773
+[2025.05.22-23.48.07:852][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 772
+[2025.05.22-23.48.07:852][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 771
+[2025.05.22-23.48.07:852][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 770
+[2025.05.22-23.48.08:392][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 769
+[2025.05.22-23.48.08:392][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 768
+[2025.05.22-23.48.08:932][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 767
+[2025.05.22-23.48.08:932][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 766
+[2025.05.22-23.48.08:932][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 765
+[2025.05.22-23.48.08:932][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 764
+[2025.05.22-23.48.09:471][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 763
+[2025.05.22-23.48.09:471][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 762
+[2025.05.22-23.48.09:471][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 761
+[2025.05.22-23.48.09:471][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 760
+[2025.05.22-23.48.10:014][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 759
+[2025.05.22-23.48.10:014][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 758
+[2025.05.22-23.48.10:554][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 757
+[2025.05.22-23.48.10:554][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 756
+[2025.05.22-23.48.10:554][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 755
+[2025.05.22-23.48.11:091][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 754
+[2025.05.22-23.48.11:091][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 753
+[2025.05.22-23.48.11:091][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 752
+[2025.05.22-23.48.11:091][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 751
+[2025.05.22-23.48.11:091][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 750
+[2025.05.22-23.48.11:629][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 749
+[2025.05.22-23.48.11:629][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 748
+[2025.05.22-23.48.11:629][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 747
+[2025.05.22-23.48.12:168][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 746
+[2025.05.22-23.48.12:168][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 745
+[2025.05.22-23.48.12:708][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 744
+[2025.05.22-23.48.13:246][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 743
+[2025.05.22-23.48.13:246][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 742
+[2025.05.22-23.48.13:246][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 741
+[2025.05.22-23.48.13:246][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 740
+[2025.05.22-23.48.13:786][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 739
+[2025.05.22-23.48.13:786][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 738
+[2025.05.22-23.48.14:327][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 737
+[2025.05.22-23.48.14:867][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 736
+[2025.05.22-23.48.14:867][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 735
+[2025.05.22-23.48.14:867][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 734
+[2025.05.22-23.48.15:409][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 733
+[2025.05.22-23.48.15:409][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 732
+[2025.05.22-23.48.15:409][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 731
+[2025.05.22-23.48.15:946][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 730
+[2025.05.22-23.48.15:946][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 729
+[2025.05.22-23.48.16:486][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 728
+[2025.05.22-23.48.16:486][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 727
+[2025.05.22-23.48.17:026][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 726
+[2025.05.22-23.48.17:026][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 725
+[2025.05.22-23.48.18:644][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 724
+[2025.05.22-23.48.18:644][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 723
+[2025.05.22-23.48.19:183][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 722
+[2025.05.22-23.48.19:183][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 721
+[2025.05.22-23.48.19:183][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 720
+[2025.05.22-23.48.19:722][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 719
+[2025.05.22-23.48.19:722][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 718
+[2025.05.22-23.48.19:722][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 717
+[2025.05.22-23.48.19:722][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 716
+[2025.05.22-23.48.20:261][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 715
+[2025.05.22-23.48.20:800][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 714
+[2025.05.22-23.48.20:800][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 713
+[2025.05.22-23.48.20:800][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 712
+[2025.05.22-23.48.21:879][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 711
+[2025.05.22-23.48.21:879][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 710
+[2025.05.22-23.48.21:879][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 709
+[2025.05.22-23.48.22:416][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 708
+[2025.05.22-23.48.22:954][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 707
+[2025.05.22-23.48.23:492][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 706
+[2025.05.22-23.48.23:492][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 705
+[2025.05.22-23.48.24:029][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 704
+[2025.05.22-23.48.24:568][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 703
+[2025.05.22-23.48.25:109][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 702
+[2025.05.22-23.48.26:183][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 701
+[2025.05.22-23.48.26:183][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 700
+[2025.05.22-23.48.26:183][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 699
+[2025.05.22-23.48.26:724][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 698
+[2025.05.22-23.48.26:724][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 697
+[2025.05.22-23.48.26:724][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 696
+[2025.05.22-23.48.27:259][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 695
+[2025.05.22-23.48.27:259][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 694
+[2025.05.22-23.48.27:259][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 693
+[2025.05.22-23.48.27:259][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 692
+[2025.05.22-23.48.27:797][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 691
+[2025.05.22-23.48.27:797][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 690
+[2025.05.22-23.48.28:336][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 689
+[2025.05.22-23.48.28:336][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 688
+[2025.05.22-23.48.28:336][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 687
+[2025.05.22-23.48.29:419][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 686
+[2025.05.22-23.48.29:419][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 685
+[2025.05.22-23.48.29:419][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 684
+[2025.05.22-23.48.29:955][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 683
+[2025.05.22-23.48.29:955][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 682
+[2025.05.22-23.48.30:493][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 681
+[2025.05.22-23.48.30:493][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 680
+[2025.05.22-23.48.30:493][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 679
+[2025.05.22-23.48.30:493][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 678
+[2025.05.22-23.48.31:034][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 677
+[2025.05.22-23.48.31:034][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 676
+[2025.05.22-23.48.31:034][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 675
+[2025.05.22-23.48.31:574][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 674
+[2025.05.22-23.48.31:574][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 673
+[2025.05.22-23.48.31:574][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 672
+[2025.05.22-23.48.31:574][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 671
+[2025.05.22-23.48.32:114][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 670
+[2025.05.22-23.48.32:114][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 669
+[2025.05.22-23.48.32:114][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 668
+[2025.05.22-23.48.32:114][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 667
+[2025.05.22-23.48.32:652][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 666
+[2025.05.22-23.48.32:652][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 665
+[2025.05.22-23.48.33:192][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 664
+[2025.05.22-23.48.33:192][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 663
+[2025.05.22-23.48.33:192][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 662
+[2025.05.22-23.48.33:192][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 661
+[2025.05.22-23.48.33:192][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 660
+[2025.05.22-23.48.33:733][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 659
+[2025.05.22-23.48.33:733][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 658
+[2025.05.22-23.48.33:733][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 657
+[2025.05.22-23.48.34:273][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 656
+[2025.05.22-23.48.34:273][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 655
+[2025.05.22-23.48.34:273][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 654
+[2025.05.22-23.48.34:273][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 653
+[2025.05.22-23.48.34:273][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 652
+[2025.05.22-23.48.34:814][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 651
+[2025.05.22-23.48.34:814][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 650
+[2025.05.22-23.48.34:814][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 649
+[2025.05.22-23.48.35:357][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 648
+[2025.05.22-23.48.35:357][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 647
+[2025.05.22-23.48.35:357][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 646
+[2025.05.22-23.48.35:357][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 645
+[2025.05.22-23.48.35:899][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 644
+[2025.05.22-23.48.35:899][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 643
+[2025.05.22-23.48.35:899][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 642
+[2025.05.22-23.48.35:899][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 641
+[2025.05.22-23.48.36:439][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 640
+[2025.05.22-23.48.36:439][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 639
+[2025.05.22-23.48.36:439][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 638
+[2025.05.22-23.48.36:439][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 637
+[2025.05.22-23.48.36:439][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 636
+[2025.05.22-23.48.36:980][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 635
+[2025.05.22-23.48.36:980][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 634
+[2025.05.22-23.48.36:980][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 633
+[2025.05.22-23.48.36:980][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 632
+[2025.05.22-23.48.37:520][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 631
+[2025.05.22-23.48.37:520][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 630
+[2025.05.22-23.48.37:520][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 629
+[2025.05.22-23.48.37:520][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 628
+[2025.05.22-23.48.38:059][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 627
+[2025.05.22-23.48.38:059][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 626
+[2025.05.22-23.48.38:059][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 625
+[2025.05.22-23.48.38:059][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 624
+[2025.05.22-23.48.38:597][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 623
+[2025.05.22-23.48.38:597][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 622
+[2025.05.22-23.48.38:597][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 621
+[2025.05.22-23.48.39:137][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 620
+[2025.05.22-23.48.39:137][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 619
+[2025.05.22-23.48.39:137][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 618
+[2025.05.22-23.48.39:676][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 617
+[2025.05.22-23.48.39:676][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 616
+[2025.05.22-23.48.39:676][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 615
+[2025.05.22-23.48.39:676][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 614
+[2025.05.22-23.48.40:215][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 613
+[2025.05.22-23.48.40:215][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 612
+[2025.05.22-23.48.40:215][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 611
+[2025.05.22-23.48.40:757][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 610
+[2025.05.22-23.48.41:298][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 609
+[2025.05.22-23.48.41:298][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 608
+[2025.05.22-23.48.41:298][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 607
+[2025.05.22-23.48.41:839][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 606
+[2025.05.22-23.48.41:839][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 605
+[2025.05.22-23.48.41:839][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 604
+[2025.05.22-23.48.41:839][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 603
+[2025.05.22-23.48.42:376][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 602
+[2025.05.22-23.48.42:376][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 601
+[2025.05.22-23.48.42:376][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 600
+[2025.05.22-23.48.42:918][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 599
+[2025.05.22-23.48.43:458][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 598
+[2025.05.22-23.48.44:000][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 597
+[2025.05.22-23.48.44:000][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 596
+[2025.05.22-23.48.44:000][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 595
+[2025.05.22-23.48.44:541][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 594
+[2025.05.22-23.48.44:541][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 593
+[2025.05.22-23.48.44:541][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 592
+[2025.05.22-23.48.45:083][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 591
+[2025.05.22-23.48.45:625][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 590
+[2025.05.22-23.48.45:625][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 589
+[2025.05.22-23.48.45:625][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 588
+[2025.05.22-23.48.46:168][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 587
+[2025.05.22-23.48.46:168][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 586
+[2025.05.22-23.48.46:708][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 585
+[2025.05.22-23.48.46:708][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 584
+[2025.05.22-23.48.47:254][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 583
+[2025.05.22-23.48.47:254][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 582
+[2025.05.22-23.48.47:254][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 581
+[2025.05.22-23.48.47:254][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 580
+[2025.05.22-23.48.47:795][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 579
+[2025.05.22-23.48.47:795][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 578
+[2025.05.22-23.48.47:795][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 577
+[2025.05.22-23.48.47:795][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 576
+[2025.05.22-23.48.47:795][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 575
+[2025.05.22-23.48.48:339][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 574
+[2025.05.22-23.48.48:339][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 573
+[2025.05.22-23.48.48:339][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 572
+[2025.05.22-23.48.48:880][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 571
+[2025.05.22-23.48.48:880][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 570
+[2025.05.22-23.48.48:880][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 569
+[2025.05.22-23.48.48:880][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 568
+[2025.05.22-23.48.49:420][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 567
+[2025.05.22-23.48.49:420][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 566
+[2025.05.22-23.48.49:420][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 565
+[2025.05.22-23.48.49:958][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 564
+[2025.05.22-23.48.49:958][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 563
+[2025.05.22-23.48.49:958][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 562
+[2025.05.22-23.48.50:500][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 561
+[2025.05.22-23.48.50:500][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 560
+[2025.05.22-23.48.50:500][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 559
+[2025.05.22-23.48.51:040][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 558
+[2025.05.22-23.48.51:040][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 557
+[2025.05.22-23.48.51:040][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 556
+[2025.05.22-23.48.51:040][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 555
+[2025.05.22-23.48.51:581][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 554
+[2025.05.22-23.48.51:581][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 553
+[2025.05.22-23.48.52:121][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 552
+[2025.05.22-23.48.52:121][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 551
+[2025.05.22-23.48.52:121][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 550
+[2025.05.22-23.48.52:121][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 549
+[2025.05.22-23.48.52:121][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 548
+[2025.05.22-23.48.52:665][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 547
+[2025.05.22-23.48.52:665][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 546
+[2025.05.22-23.48.52:665][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 545
+[2025.05.22-23.48.52:665][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 544
+[2025.05.22-23.48.53:209][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 543
+[2025.05.22-23.48.53:752][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 542
+[2025.05.22-23.48.53:752][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 541
+[2025.05.22-23.48.53:752][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 540
+[2025.05.22-23.48.54:294][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 539
+[2025.05.22-23.48.54:294][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 538
+[2025.05.22-23.48.54:294][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 537
+[2025.05.22-23.48.54:836][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 536
+[2025.05.22-23.48.55:375][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 535
+[2025.05.22-23.48.55:375][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 534
+[2025.05.22-23.48.55:375][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 533
+[2025.05.22-23.48.55:375][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 532
+[2025.05.22-23.48.56:999][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 531
+[2025.05.22-23.48.56:999][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 530
+[2025.05.22-23.48.57:539][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 529
+[2025.05.22-23.48.59:185][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 528
+[2025.05.22-23.48.59:185][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 527
+[2025.05.22-23.48.59:735][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 526
+[2025.05.22-23.48.59:735][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 525
+[2025.05.22-23.49.00:824][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 524
+[2025.05.22-23.49.01:366][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 523
+[2025.05.22-23.49.01:366][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 522
+[2025.05.22-23.49.01:366][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 521
+[2025.05.22-23.49.01:907][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 520
+[2025.05.22-23.49.01:907][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 519
+[2025.05.22-23.49.01:907][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 518
+[2025.05.22-23.49.02:450][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 517
+[2025.05.22-23.49.02:991][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 516
+[2025.05.22-23.49.02:991][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 515
+[2025.05.22-23.49.03:530][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 514
+[2025.05.22-23.49.04:075][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 513
+[2025.05.22-23.49.04:075][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 512
+[2025.05.22-23.49.05:157][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 511
+[2025.05.22-23.49.05:157][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 510
+[2025.05.22-23.49.05:699][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 509
+[2025.05.22-23.49.05:699][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 508
+[2025.05.22-23.49.06:239][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 507
+[2025.05.22-23.49.06:777][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 506
+[2025.05.22-23.49.07:318][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 505
+[2025.05.22-23.49.07:318][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 504
+[2025.05.22-23.49.07:856][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 503
+[2025.05.22-23.49.08:399][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 502
+[2025.05.22-23.49.08:935][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 501
+[2025.05.22-23.49.08:935][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 500
+[2025.05.22-23.49.10:015][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 499
+[2025.05.22-23.49.10:015][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 498
+[2025.05.22-23.49.10:554][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 497
+[2025.05.22-23.49.11:096][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 496
+[2025.05.22-23.49.11:096][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 495
+[2025.05.22-23.49.11:636][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 494
+[2025.05.22-23.49.12:727][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 493
+[2025.05.22-23.49.13:811][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 492
+[2025.05.22-23.49.13:811][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 491
+[2025.05.22-23.49.13:811][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 490
+[2025.05.22-23.49.13:811][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 489
+[2025.05.22-23.49.14:350][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 488
+[2025.05.22-23.49.14:893][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 487
+[2025.05.22-23.49.14:893][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 486
+[2025.05.22-23.49.14:893][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 485
+[2025.05.22-23.49.14:893][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 484
+[2025.05.22-23.49.15:436][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 483
+[2025.05.22-23.49.15:436][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 482
+[2025.05.22-23.49.15:976][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 481
+[2025.05.22-23.49.15:976][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 480
+[2025.05.22-23.49.16:522][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 479
+[2025.05.22-23.49.16:522][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 478
+[2025.05.22-23.49.17:065][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 477
+[2025.05.22-23.49.17:603][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 476
+[2025.05.22-23.49.17:603][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 475
+[2025.05.22-23.49.17:603][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 474
+[2025.05.22-23.49.18:146][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 473
+[2025.05.22-23.49.18:688][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 472
+[2025.05.22-23.49.19:231][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 471
+[2025.05.22-23.49.21:428][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 470
+[2025.05.22-23.49.21:974][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 469
+[2025.05.22-23.49.21:974][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 468
+[2025.05.22-23.49.22:524][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 467
+[2025.05.22-23.49.23:070][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 466
+[2025.05.22-23.49.24:178][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 465
+[2025.05.22-23.49.24:723][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 464
+[2025.05.22-23.49.25:262][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 463
+[2025.05.22-23.49.25:802][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 462
+[2025.05.22-23.49.26:346][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 461
+[2025.05.22-23.49.26:346][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 460
+[2025.05.22-23.49.28:515][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 459
+[2025.05.22-23.49.28:515][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 458
+[2025.05.22-23.49.30:164][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 457
+[2025.05.22-23.49.32:332][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 456
+[2025.05.22-23.49.32:875][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 455
+[2025.05.22-23.49.32:875][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 454
+[2025.05.22-23.49.32:875][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 453
+[2025.05.22-23.49.33:421][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 452
+[2025.05.22-23.49.33:964][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 451
+[2025.05.22-23.49.33:964][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 450
+[2025.05.22-23.49.34:513][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 449
+[2025.05.22-23.49.35:594][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 448
+[2025.05.22-23.49.35:594][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 447
+[2025.05.22-23.49.36:681][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 446
+[2025.05.22-23.49.37:223][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 445
+[2025.05.22-23.49.37:223][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 444
+[2025.05.22-23.49.37:223][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 443
+[2025.05.22-23.49.38:308][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 442
+[2025.05.22-23.49.39:390][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 441
+[2025.05.22-23.49.39:390][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 440
+[2025.05.22-23.49.39:390][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 439
+[2025.05.22-23.49.39:929][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 438
+[2025.05.22-23.49.39:929][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 437
+[2025.05.22-23.49.40:471][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 436
+[2025.05.22-23.49.41:013][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 435
+[2025.05.22-23.49.41:013][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 434
+[2025.05.22-23.49.41:556][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 433
+[2025.05.22-23.49.41:556][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 432
+[2025.05.22-23.49.43:179][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 431
+[2025.05.22-23.49.43:179][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 430
+[2025.05.22-23.49.43:724][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 429
+[2025.05.22-23.49.44:265][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 428
+[2025.05.22-23.49.44:265][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 427
+[2025.05.22-23.49.44:807][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 426
+[2025.05.22-23.49.44:807][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 425
+[2025.05.22-23.49.45:905][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 424
+[2025.05.22-23.49.46:446][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 423
+[2025.05.22-23.49.46:990][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 422
+[2025.05.22-23.49.47:533][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 421
+[2025.05.22-23.49.47:533][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 420
+[2025.05.22-23.49.47:533][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 419
+[2025.05.22-23.49.48:621][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 418
+[2025.05.22-23.49.48:621][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 417
+[2025.05.22-23.49.49:165][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 416
+[2025.05.22-23.49.49:165][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 415
+[2025.05.22-23.49.49:710][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 414
+[2025.05.22-23.49.50:257][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 413
+[2025.05.22-23.49.51:340][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 412
+[2025.05.22-23.49.51:340][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 411
+[2025.05.22-23.49.51:340][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 410
+[2025.05.22-23.49.51:340][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 409
+[2025.05.22-23.49.51:340][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 408
+[2025.05.22-23.49.52:424][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 407
+[2025.05.22-23.49.52:964][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 406
+[2025.05.22-23.49.52:964][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 405
+[2025.05.22-23.49.52:964][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 404
+[2025.05.22-23.49.52:964][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 403
+[2025.05.22-23.49.54:054][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 402
+[2025.05.22-23.49.54:054][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 401
+[2025.05.22-23.49.55:138][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 400
+[2025.05.22-23.49.55:138][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 399
+[2025.05.22-23.49.55:138][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 398
+[2025.05.22-23.49.55:138][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 397
+[2025.05.22-23.49.55:680][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 396
+[2025.05.22-23.49.56:222][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 395
+[2025.05.22-23.49.56:222][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 394
+[2025.05.22-23.49.56:761][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 393
+[2025.05.22-23.49.57:306][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 392
+[2025.05.22-23.49.57:306][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 391
+[2025.05.22-23.49.57:306][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 390
+[2025.05.22-23.49.57:846][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 389
+[2025.05.22-23.49.58:923][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 388
+[2025.05.22-23.49.58:923][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 387
+[2025.05.22-23.49.58:923][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 386
+[2025.05.22-23.50.00:541][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 385
+[2025.05.22-23.50.00:541][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 384
+[2025.05.22-23.50.01:079][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 383
+[2025.05.22-23.50.02:164][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 382
+[2025.05.22-23.50.02:164][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 381
+[2025.05.22-23.50.02:701][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 380
+[2025.05.22-23.50.03:245][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 379
+[2025.05.22-23.50.03:245][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 378
+[2025.05.22-23.50.04:336][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 377
+[2025.05.22-23.50.04:336][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 376
+[2025.05.22-23.50.04:336][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 375
+[2025.05.22-23.50.04:879][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 374
+[2025.05.22-23.50.04:879][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 373
+[2025.05.22-23.50.05:421][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 372
+[2025.05.22-23.50.05:961][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 371
+[2025.05.22-23.50.05:961][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 370
+[2025.05.22-23.50.07:045][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 369
+[2025.05.22-23.50.07:045][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 368
+[2025.05.22-23.50.07:045][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 367
+[2025.05.22-23.50.07:588][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 366
+[2025.05.22-23.50.08:671][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 365
+[2025.05.22-23.50.08:671][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 364
+[2025.05.22-23.50.08:671][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 363
+[2025.05.22-23.50.08:671][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 362
+[2025.05.22-23.50.08:671][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 361
+[2025.05.22-23.50.09:212][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 360
+[2025.05.22-23.50.09:754][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 359
+[2025.05.22-23.50.10:294][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 358
+[2025.05.22-23.50.10:834][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 357
+[2025.05.22-23.50.11:921][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 356
+[2025.05.22-23.50.11:921][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 355
+[2025.05.22-23.50.14:102][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 354
+[2025.05.22-23.50.14:102][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 353
+[2025.05.22-23.50.14:102][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 352
+[2025.05.22-23.50.14:102][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 351
+[2025.05.22-23.50.14:102][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 350
+[2025.05.22-23.50.15:181][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 349
+[2025.05.22-23.50.15:719][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 348
+[2025.05.22-23.50.15:719][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 347
+[2025.05.22-23.50.16:806][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 346
+[2025.05.22-23.50.17:351][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 345
+[2025.05.22-23.50.17:894][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 344
+[2025.05.22-23.50.17:894][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 343
+[2025.05.22-23.50.18:434][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 342
+[2025.05.22-23.50.18:975][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 341
+[2025.05.22-23.50.18:975][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 340
+[2025.05.22-23.50.18:975][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 339
+[2025.05.22-23.50.18:975][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 338
+[2025.05.22-23.50.19:518][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 337
+[2025.05.22-23.50.20:606][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 336
+[2025.05.22-23.50.20:606][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 335
+[2025.05.22-23.50.21:147][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 334
+[2025.05.22-23.50.21:691][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 333
+[2025.05.22-23.50.21:691][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 332
+[2025.05.22-23.50.22:231][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 331
+[2025.05.22-23.50.22:231][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 330
+[2025.05.22-23.50.23:316][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 329
+[2025.05.22-23.50.23:316][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 328
+[2025.05.22-23.50.23:860][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 327
+[2025.05.22-23.50.24:402][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 326
+[2025.05.22-23.50.25:485][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 325
+[2025.05.22-23.50.26:034][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 324
+[2025.05.22-23.50.26:034][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 323
+[2025.05.22-23.50.29:304][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 322
+[2025.05.22-23.50.30:940][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 321
+[2025.05.22-23.50.31:485][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 320
+[2025.05.22-23.50.32:029][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 319
+[2025.05.22-23.50.32:029][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 318
+[2025.05.22-23.50.32:029][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 317
+[2025.05.22-23.50.32:571][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 316
+[2025.05.22-23.50.34:728][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 315
+[2025.05.22-23.50.35:270][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 314
+[2025.05.22-23.50.35:270][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 313
+[2025.05.22-23.50.35:270][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 312
+[2025.05.22-23.50.35:808][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 311
+[2025.05.22-23.50.36:351][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 310
+[2025.05.22-23.50.37:441][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 309
+[2025.05.22-23.50.37:441][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 308
+[2025.05.22-23.50.37:441][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 307
+[2025.05.22-23.50.37:441][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 306
+[2025.05.22-23.50.38:527][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 305
+[2025.05.22-23.50.39:068][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 304
+[2025.05.22-23.50.40:699][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 303
+[2025.05.22-23.50.42:863][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 302
+[2025.05.22-23.50.43:948][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 301
+[2025.05.22-23.50.47:748][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 300
+[2025.05.22-23.50.48:833][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 299
+[2025.05.22-23.50.49:375][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 298
+[2025.05.22-23.50.49:375][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 297
+[2025.05.22-23.50.49:375][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 296
+[2025.05.22-23.50.50:463][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 295
+[2025.05.22-23.50.51:006][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 294
+[2025.05.22-23.50.52:093][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 293
+[2025.05.22-23.50.52:636][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 292
+[2025.05.22-23.50.53:728][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 291
+[2025.05.22-23.50.53:728][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 290
+[2025.05.22-23.50.53:728][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 289
+[2025.05.22-23.50.58:064][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 288
+[2025.05.22-23.50.58:606][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 287
+[2025.05.22-23.51.02:947][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 286
+[2025.05.22-23.51.04:567][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 285
+[2025.05.22-23.51.04:567][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 284
+[2025.05.22-23.51.04:567][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 283
+[2025.05.22-23.51.04:567][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 282
+[2025.05.22-23.51.04:567][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 281
+[2025.05.22-23.51.21:006][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 280
+[2025.05.22-23.51.23:188][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 279
+[2025.05.22-23.51.23:188][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 278
+[2025.05.22-23.51.23:730][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 277
+[2025.05.22-23.51.24:270][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 276
+[2025.05.22-23.51.27:531][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 275
+[2025.05.22-23.51.29:177][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 274
+[2025.05.22-23.51.29:177][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 273
+[2025.05.22-23.51.30:805][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 272
+[2025.05.22-23.51.31:356][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 271
+[2025.05.22-23.51.31:898][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 270
+[2025.05.22-23.51.32:442][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 269
+[2025.05.22-23.51.32:984][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 268
+[2025.05.22-23.51.32:984][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 267
+[2025.05.22-23.51.33:528][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 266
+[2025.05.22-23.51.33:528][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 265
+[2025.05.22-23.51.34:074][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 264
+[2025.05.22-23.51.34:074][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 263
+[2025.05.22-23.51.34:074][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 262
+[2025.05.22-23.51.34:074][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 261
+[2025.05.22-23.51.34:616][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 260
+[2025.05.22-23.51.34:616][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 259
+[2025.05.22-23.51.36:789][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 258
+[2025.05.22-23.51.37:884][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 257
+[2025.05.22-23.51.43:337][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 256
+[2025.05.22-23.51.46:045][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 255
+[2025.05.22-23.51.47:136][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 254
+[2025.05.22-23.51.47:136][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 253
+[2025.05.22-23.51.48:215][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 252
+[2025.05.22-23.51.48:215][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 251
+[2025.05.22-23.51.48:215][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 250
+[2025.05.22-23.51.48:752][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 249
+[2025.05.22-23.51.49:298][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 248
+[2025.05.22-23.51.49:844][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 247
+[2025.05.22-23.51.50:927][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 246
+[2025.05.22-23.51.51:469][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 245
+[2025.05.22-23.51.51:469][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 244
+[2025.05.22-23.51.52:010][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 243
+[2025.05.22-23.51.53:107][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 242
+[2025.05.22-23.51.54:197][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 241
+[2025.05.22-23.51.56:908][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 240
+[2025.05.22-23.51.57:451][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 239
+[2025.05.22-23.52.00:164][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 238
+[2025.05.22-23.52.00:706][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 237
+[2025.05.22-23.52.01:249][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 236
+[2025.05.22-23.52.01:249][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 235
+[2025.05.22-23.52.01:249][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 234
+[2025.05.22-23.52.01:249][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 233
+[2025.05.22-23.52.01:249][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 232
+[2025.05.22-23.52.02:339][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 231
+[2025.05.22-23.52.02:885][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 230
+[2025.05.22-23.52.03:429][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 229
+[2025.05.22-23.52.03:974][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 228
+[2025.05.22-23.52.05:060][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 227
+[2025.05.22-23.52.06:143][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 226
+[2025.05.22-23.52.07:784][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 225
+[2025.05.22-23.52.08:329][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 224
+[2025.05.22-23.52.08:329][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 223
+[2025.05.22-23.52.09:415][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 222
+[2025.05.22-23.52.28:112][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 221
+[2025.05.22-23.52.34:489][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 220
+[2025.05.22-23.52.45:656][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 219
+[2025.05.22-23.53.05:674][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 218
+[2025.05.22-23.53.13:394][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 217
+[2025.05.22-23.53.23:717][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 216
+[2025.05.22-23.53.24:285][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 215
+[2025.05.22-23.53.27:780][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 214
+[2025.05.22-23.53.36:176][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 213
+[2025.05.22-23.53.41:735][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 212
+[2025.05.22-23.53.50:366][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 211
+[2025.05.22-23.53.53:708][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 210
+[2025.05.22-23.53.55:918][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 209
+[2025.05.22-23.53.59:368][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 208
+[2025.05.22-23.54.08:893][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 207
+[2025.05.22-23.54.16:131][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 206
+[2025.05.22-23.54.16:678][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 205
+[2025.05.22-23.54.20:520][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 204
+[2025.05.22-23.54.20:520][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 203
+[2025.05.22-23.54.20:520][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 202
+[2025.05.22-23.54.30:992][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 201
+[2025.05.22-23.54.30:992][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 200
+[2025.05.22-23.54.32:640][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 199
+[2025.05.22-23.54.33:188][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 198
+[2025.05.22-23.54.34:287][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 197
+[2025.05.22-23.54.35:923][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 196
+[2025.05.22-23.54.38:688][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 195
+[2025.05.22-23.54.43:857][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 194
+[2025.05.22-23.54.46:070][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 193
+[2025.05.22-23.54.50:446][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 192
+[2025.05.22-23.54.50:446][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 191
+[2025.05.22-23.54.50:988][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 190
+[2025.05.22-23.54.51:532][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 189
+[2025.05.22-23.54.51:532][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 188
+[2025.05.22-23.54.52:078][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 187
+[2025.05.22-23.54.52:621][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 186
+[2025.05.22-23.54.52:621][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 185
+[2025.05.22-23.54.53:158][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 184
+[2025.05.22-23.54.53:158][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 183
+[2025.05.22-23.54.53:158][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 182
+[2025.05.22-23.54.53:695][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 181
+[2025.05.22-23.54.54:237][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 180
+[2025.05.22-23.54.54:237][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 179
+[2025.05.22-23.54.54:780][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 178
+[2025.05.22-23.54.55:321][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 177
+[2025.05.22-23.54.55:863][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 176
+[2025.05.22-23.54.55:863][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 175
+[2025.05.22-23.54.56:406][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 174
+[2025.05.22-23.54.56:406][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 173
+[2025.05.22-23.54.56:948][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 172
+[2025.05.22-23.54.57:493][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 171
+[2025.05.22-23.54.57:493][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 170
+[2025.05.22-23.54.58:033][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 169
+[2025.05.22-23.54.58:577][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 168
+[2025.05.22-23.54.58:577][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 167
+[2025.05.22-23.54.59:685][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 166
+[2025.05.22-23.54.59:685][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 165
+[2025.05.22-23.55.00:229][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 164
+[2025.05.22-23.55.00:806][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 163
+[2025.05.22-23.55.03:692][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 162
+[2025.05.22-23.55.04:232][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 161
+[2025.05.22-23.55.04:232][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 160
+[2025.05.22-23.55.04:774][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 159
+[2025.05.22-23.55.05:314][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 158
+[2025.05.22-23.55.05:860][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 157
+[2025.05.22-23.55.05:860][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 156
+[2025.05.22-23.55.05:860][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 155
+[2025.05.22-23.55.06:406][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 154
+[2025.05.22-23.55.06:406][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 153
+[2025.05.22-23.55.06:954][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 152
+[2025.05.22-23.55.07:495][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 151
+[2025.05.22-23.55.07:495][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 150
+[2025.05.22-23.55.09:145][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 149
+[2025.05.22-23.55.10:271][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 148
+[2025.05.22-23.55.10:271][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 147
+[2025.05.22-23.55.10:818][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 146
+[2025.05.22-23.55.12:450][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 145
+[2025.05.22-23.55.12:993][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 144
+[2025.05.22-23.55.12:993][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 143
+[2025.05.22-23.55.14:072][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 142
+[2025.05.22-23.55.14:072][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 141
+[2025.05.22-23.55.14:619][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 140
+[2025.05.22-23.55.15:164][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 139
+[2025.05.22-23.55.15:164][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 138
+[2025.05.22-23.55.16:800][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 137
+[2025.05.22-23.55.17:347][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 136
+[2025.05.22-23.55.18:465][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 135
+[2025.05.22-23.55.18:465][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 134
+[2025.05.22-23.55.19:009][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 133
+[2025.05.22-23.55.20:094][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 132
+[2025.05.22-23.55.20:646][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 131
+[2025.05.22-23.55.21:188][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 130
+[2025.05.22-23.55.21:732][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 129
+[2025.05.22-23.55.21:732][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 128
+[2025.05.22-23.55.21:732][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 127
+[2025.05.22-23.55.21:732][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 126
+[2025.05.22-23.55.23:380][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 125
+[2025.05.22-23.55.24:504][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 124
+[2025.05.22-23.55.25:049][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 123
+[2025.05.22-23.55.25:602][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 122
+[2025.05.22-23.55.27:792][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 121
+[2025.05.22-23.55.28:335][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 120
+[2025.05.22-23.55.29:423][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 119
+[2025.05.22-23.55.29:423][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 118
+[2025.05.22-23.55.29:971][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 117
+[2025.05.22-23.55.30:514][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 116
+[2025.05.22-23.55.30:514][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 115
+[2025.05.22-23.55.31:064][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 114
+[2025.05.22-23.55.31:064][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 113
+[2025.05.22-23.55.31:607][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 112
+[2025.05.22-23.55.32:148][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 111
+[2025.05.22-23.55.32:689][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 110
+[2025.05.22-23.55.35:966][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 109
+[2025.05.22-23.55.35:966][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 108
+[2025.05.22-23.55.35:966][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 107
+[2025.05.22-23.55.35:966][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 106
+[2025.05.22-23.55.36:522][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 105
+[2025.05.22-23.55.37:070][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 104
+[2025.05.22-23.55.38:162][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 103
+[2025.05.22-23.55.38:162][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 102
+[2025.05.22-23.55.39:836][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 101
+[2025.05.22-23.55.39:836][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 100
+[2025.05.22-23.55.40:377][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 99
+[2025.05.22-23.55.40:914][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 98
+[2025.05.22-23.55.41:469][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 97
+[2025.05.22-23.55.42:552][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2025.05.22-23.55.42:552][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 95
+[2025.05.22-23.55.43:644][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 94
+[2025.05.22-23.55.45:317][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 93
+[2025.05.22-23.55.45:317][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 92
+[2025.05.22-23.55.45:317][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 91
+[2025.05.22-23.55.45:861][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 90
+[2025.05.22-23.55.47:494][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 89
+[2025.05.22-23.55.47:494][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 88
+[2025.05.22-23.55.48:041][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 87
+[2025.05.22-23.55.49:678][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 86
+[2025.05.22-23.55.50:232][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 85
+[2025.05.22-23.55.52:408][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 84
+[2025.05.22-23.55.52:408][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 83
+[2025.05.22-23.55.52:408][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 82
+[2025.05.22-23.55.52:953][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 81
+[2025.05.22-23.55.52:953][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 80
+[2025.05.22-23.55.54:046][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 79
+[2025.05.22-23.55.54:589][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 78
+[2025.05.22-23.55.54:589][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 77
+[2025.05.22-23.55.55:130][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 76
+[2025.05.22-23.55.55:130][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 75
+[2025.05.22-23.55.56:213][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2025.05.22-23.55.56:213][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 73
+[2025.05.22-23.55.56:213][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2025.05.22-23.55.56:758][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 71
+[2025.05.22-23.55.57:299][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 70
+[2025.05.22-23.55.57:839][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 69
+[2025.05.22-23.55.57:839][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 68
+[2025.05.22-23.55.58:380][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 67
+[2025.05.22-23.55.58:920][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 66
+[2025.05.22-23.55.59:465][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 65
+[2025.05.22-23.56.00:007][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 64
+[2025.05.22-23.56.00:007][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 63
+[2025.05.22-23.56.00:551][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 62
+[2025.05.22-23.56.00:551][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 61
+[2025.05.22-23.56.01:090][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2025.05.22-23.56.01:632][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 59
+[2025.05.22-23.56.02:737][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 58
+[2025.05.22-23.56.03:847][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
+[2025.05.22-23.56.04:395][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 56
+[2025.05.22-23.56.04:395][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 55
+[2025.05.22-23.56.04:936][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2025.05.22-23.56.05:475][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 53
+[2025.05.22-23.56.06:019][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2025.05.22-23.56.06:019][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2025.05.22-23.56.07:101][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2025.05.22-23.56.07:101][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2025.05.22-23.56.07:644][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 48
+[2025.05.22-23.56.07:644][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2025.05.22-23.56.08:186][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2025.05.22-23.56.08:186][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2025.05.22-23.56.08:728][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2025.05.22-23.56.08:728][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2025.05.22-23.56.12:577][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 42
+[2025.05.22-23.56.13:139][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2025.05.22-23.56.13:705][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2025.05.22-23.56.16:433][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 39
+[2025.05.22-23.56.16:978][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2025.05.22-23.56.18:073][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2025.05.22-23.56.18:073][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2025.05.22-23.56.21:949][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2025.05.22-23.56.23:040][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2025.05.22-23.56.23:040][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 33
+[2025.05.22-23.56.23:584][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2025.05.22-23.56.24:156][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2025.05.22-23.56.26:438][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2025.05.22-23.56.27:523][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2025.05.22-23.56.28:069][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2025.05.22-23.56.29:165][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2025.05.22-23.56.29:165][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2025.05.22-23.56.29:712][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 25
+[2025.05.22-23.56.32:437][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 24
+[2025.05.22-23.56.32:437][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2025.05.22-23.56.33:115][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2025.05.22-23.56.39:899][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2025.05.22-23.56.42:718][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 20
+[2025.05.22-23.56.43:270][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2025.05.22-23.56.43:270][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2025.05.22-23.56.43:270][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2025.05.22-23.56.43:270][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2025.05.22-23.56.46:026][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2025.05.22-23.56.46:574][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2025.05.22-23.56.46:574][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2025.05.22-23.56.46:574][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 12
+[2025.05.22-23.56.47:119][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2025.05.22-23.56.49:891][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2025.05.22-23.56.49:891][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 9
+[2025.05.22-23.56.50:987][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2025.05.22-23.56.50:987][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2025.05.22-23.56.52:635][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2025.05.22-23.56.53:734][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2025.05.22-23.56.54:292][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2025.05.22-23.56.56:586][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2025.05.22-23.56.56:586][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2
+[2025.05.22-23.56.58:262][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2025.05.22-23.57.01:092][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.05.22-23.57.01:093][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2025.05.22-23.57.01:093][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.05.22-23.57.01:093][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2025.05.22-23.57.01:093][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.05.22-23.57.01:135][  0]LogNetVersion: Project 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2100265500)
+[2025.05.22-23.57.02:367][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2025.05.22-23.57.02:647][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.278920 seconds
+[2025.05.22-23.57.02:659][  0]LogUObjectArray: 17491 objects as part of root set at end of initial load.
+[2025.05.22-23.57.02:659][  0]LogUObjectAllocator: 4475728 out of 0 bytes used by permanent object pool.
+[2025.05.22-23.57.02:659][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.05.22-23.57.03:830][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.05.22-23.57.03:869][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.05.22-23.57.04:355][  0]SourceControl: Source control is disabled
+[2025.05.22-23.57.04:355][  0]SourceControl: Source control is disabled
+[2025.05.22-23.57.04:366][  0]SourceControl: Source control is disabled
+[2025.05.22-23.57.04:375][  0]SourceControl: Source control is disabled
+[2025.05.22-23.57.04:386][  0]SourceControl: Source control is disabled
+[2025.05.22-23.57.04:407][  0]LogUProjectInfo: Found projects:
+[2025.05.22-23.57.04:976][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.05.22-23.57.05:042][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.05.22-23.57.05:042][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.05.22-23.57.05:197][  0]LogCollectionManager: Loaded 0 collections in 0.003927 seconds
+[2025.05.22-23.57.05:266][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Saved/Collections/' took 0.00s
+[2025.05.22-23.57.05:266][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Content/Developers/sikan/Collections/' took 0.00s
+[2025.05.22-23.57.05:266][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Content/Collections/' took 0.00s
+[2025.05.22-23.57.05:266][  0]LogOcInput: OculusInput pre-init called
+[2025.05.22-23.57.05:307][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2025.05.22-23.57.05:307][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2025.05.22-23.57.05:440][  0]LogEngine: Initializing Engine...
+[2025.05.22-23.57.05:445][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2025.05.22-23.57.05:445][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2025.05.22-23.57.05:448][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.05.22-23.57.05:925][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.05.22-23.57.05:951][  0]LogAIModule: Creating AISystem for world Untitled
+[2025.05.22-23.57.05:953][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.05.22-23.57.05:966][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.05.22-23.57.05:966][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.05.22-23.57.05:966][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.22-23.57.05:966][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.22-23.57.05:966][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.22-23.57.05:966][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.22-23.57.05:966][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.22-23.57.05:966][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.22-23.57.05:966][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.22-23.57.05:966][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.22-23.57.05:967][  0]LogAudio: Display: Using built-in audio occlusion.
+[2025.05.22-23.57.05:967][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2025.05.22-23.57.06:003][  0]LogAudioMixer: Display: 0: FrontLeft
+[2025.05.22-23.57.06:003][  0]LogAudioMixer: Display: 1: FrontRight
+[2025.05.22-23.57.06:170][  0]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2025.05.22-23.57.06:175][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.22-23.57.06:180][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.22-23.57.06:181][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.22-23.57.06:184][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.05.22-23.57.06:184][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.05.22-23.57.06:184][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.05.22-23.57.06:188][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.05.22-23.57.06:189][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.05.22-23.57.06:189][  0]LogInit: FAudioDevice initialized.
+[2025.05.22-23.57.06:189][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.05.22-23.57.06:189][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.05.22-23.57.06:337][  0]LogDerivedDataCache: Saved boot cache 0.15s 84MB C:/Users/sikan/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2025.05.22-23.57.06:340][  0]LogInit: Texture streaming: Enabled
+[2025.05.22-23.57.06:377][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2025.05.22-23.57.06:390][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2025.05.22-23.57.06:390][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2025.05.22-23.57.06:408][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2025.05.22-23.57.06:507][  0]LogInit: Transaction tracking system initialized
+[2025.05.22-23.57.06:583][  0]BlueprintLog: New page: Editor Load
+[2025.05.22-23.57.06:828][  0]LocalizationService: Localization service is disabled
+[2025.05.22-23.57.06:922][  0]TimingProfiler: Initialize
+[2025.05.22-23.57.06:922][  0]TimingProfiler: OnSessionChanged
+[2025.05.22-23.57.06:922][  0]LoadingProfiler: Initialize
+[2025.05.22-23.57.06:922][  0]LoadingProfiler: OnSessionChanged
+[2025.05.22-23.57.06:922][  0]NetworkingProfiler: Initialize
+[2025.05.22-23.57.06:922][  0]NetworkingProfiler: OnSessionChanged
+[2025.05.22-23.57.06:922][  0]MemoryProfiler: Initialize
+[2025.05.22-23.57.06:922][  0]MemoryProfiler: OnSessionChanged
+[2025.05.22-23.57.07:381][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2025.05.22-23.57.07:381][  0]LogCook: Display: Mobile HDR setting 1
+[2025.05.22-23.57.07:898][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Content/' took 0.03s
+[2025.05.22-23.57.08:688][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.05.22-23.57.08:709][  0]SourceControl: Source control is disabled
+[2025.05.22-23.57.08:709][  0]LogUnrealEdMisc: Loading editor; pre map load, took 868.167
+[2025.05.22-23.57.08:710][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sikan/OneDrive/Desktop/This Semester/Курсач/РКИ/Project/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.05.22-23.57.08:725][  0]LightingResults: New page: Lighting Build
+[2025.05.22-23.57.08:740][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-23.57.08:740][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-23.57.08:741][  0]MapCheck: New page: Map Check
+[2025.05.22-23.57.08:741][  0]LightingResults: New page: Lighting Build
+[2025.05.22-23.57.09:484][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.05.22-23.57.11:390][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2025.05.22-23.57.11:394][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2025.05.22-23.57.11:769][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2025.05.22-23.57.14:018][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.248 s
+[2025.05.22-23.57.14:018][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2025.05.22-23.57.14:018][  0]LogOutputDevice: Error: 
+[2025.05.22-23.57.14:018][  0]LogOutputDevice: Error: Ensure condition failed: !Primitive->Bounds.BoxExtent.ContainsNaN() && !Primitive->Bounds.Origin.ContainsNaN() && !FMath::IsNaN(Primitive->Bounds.SphereRadius) && FMath::IsFinite(Primitive->Bounds.SphereRadius) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Renderer/Private/RendererScene.cpp] [Line: 1277]
+[2025.05.22-23.57.14:018][  0]LogOutputDevice: Error: Nans found on Bounds for Primitive LakeCollisionComponent: Origin X=-nan(ind) Y=-nan(ind) Z=-nan(ind), BoxExtent X=nan Y=nan Z=nan, SphereRadius nan
+[2025.05.22-23.57.14:018][  0]LogOutputDevice: Error: Stack: 
+[2025.05.22-23.57.14:018][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8b2d577d3 UE4Editor-Renderer.dll!UnknownFunction []
+[2025.05.22-23.57.14:018][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8b2921fcd UE4Editor-Renderer.dll!UnknownFunction []
+[2025.05.22-23.57.14:018][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8bbaaa2b9 UE4Editor-Engine.dll!UnknownFunction []
+[2025.05.22-23.57.14:018][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8bba13a77 UE4Editor-Engine.dll!UnknownFunction []
+[2025.05.22-23.57.14:018][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8bba303f5 UE4Editor-Engine.dll!UnknownFunction []
+[2025.05.22-23.57.14:018][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8bb65f5f2 UE4Editor-Engine.dll!UnknownFunction []
+[2025.05.22-23.57.14:018][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8bbf606ef UE4Editor-Engine.dll!UnknownFunction []
+[2025.05.22-23.57.14:018][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8bca15b00 UE4Editor-Engine.dll!UnknownFunction []
+[2025.05.22-23.57.14:018][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8b95025f0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.05.22-23.57.14:019][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8b94f1abf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.05.22-23.57.14:019][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8b94dae7f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.05.22-23.57.14:019][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8b9d5db77 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.05.22-23.57.14:019][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8b97df7f9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.05.22-23.57.14:019][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8b97df608 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.05.22-23.57.14:019][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8b9d9a640 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.05.22-23.57.14:019][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8b9d59653 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.05.22-23.57.14:019][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6d0f90ffb UE4Editor.exe!UnknownFunction []
+[2025.05.22-23.57.14:019][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6d0f9125a UE4Editor.exe!UnknownFunction []
+[2025.05.22-23.57.14:019][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6d0fa52bd UE4Editor.exe!UnknownFunction []
+[2025.05.22-23.57.14:019][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6d0fa7fea UE4Editor.exe!UnknownFunction []
+[2025.05.22-23.57.14:019][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9ccf3e8d7 KERNEL32.DLL!UnknownFunction []
+[2025.05.22-23.57.14:019][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9ce55c5dc ntdll.dll!UnknownFunction []
+[2025.05.22-23.57.14:019][  0]LogOutputDevice: Error: 
